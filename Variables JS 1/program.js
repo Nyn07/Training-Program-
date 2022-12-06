@@ -1,10 +1,12 @@
+//first js program
+
 const name = 'Nayan Mehta' 
-let email = 'nayanmehta0709@gmail.com'
-let age = 50
-let address = '1437 B scheme no. 71 Indore (M.P.)'
-let phoneNo = 9575260083
+const email = 'nayanmehta0709@gmail.com'
+const age = 23
+const address = '1437 B scheme no. 71 Indore (M.P.)'
+const phoneNo = 9575260083
 const gender = 'male'
-let isMarried = no 
+const isMarried = false 
 
 console.log ('Name =',name)
 console.log ('Email =',email)
