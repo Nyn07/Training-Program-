@@ -1,12 +1,12 @@
 /* 2 program of Node.js */
 
- name = null,
- email = null,
- age = null,
- address = null, 
- phone_no = null, 
- gender = null,
- isMarried = null  
+const name = null,
+const email = null,
+const age = null,
+const address = null, 
+const phone_no = null, 
+const gender = null,
+const isMarried = null  
 
 console.log ('Name =',name)
 console.log ('Email =',email)
