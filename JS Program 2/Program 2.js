@@ -1,11 +1,11 @@
 /* 2 program of Node.js */
 
-const name = null,
-const email = null,
-const age = null,
-const address = null, 
-const phone_no = null, 
-const gender = null,
+const name = null
+const email = null
+const age = null
+const address = null
+const phone_no = null 
+const gender = null
 const isMarried = null  
 
 console.log ('Name =',name)
