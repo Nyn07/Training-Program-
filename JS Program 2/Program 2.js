@@ -4,7 +4,7 @@ const name = null
 const email = null
 const age = null
 const address = null
-const phone_no = null 
+const phoneNo = null 
 const gender = null
 const isMarried = null  
 
