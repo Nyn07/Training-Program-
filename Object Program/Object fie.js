@@ -7,7 +7,7 @@ const employeeDetails = {
 'address' : null,
 'phoneNo' : null, 
 'gender' : null,
-'isMarried' : null  }
+'isMarried' : null }
 
 console.log (employeeDetails)
-console.log (employeeDetails ["name"])
+console.log (employeeDetails.name)
