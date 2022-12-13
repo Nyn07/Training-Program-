@@ -1,8 +1,7 @@
 /* Operators Program*/
 
-let a = 5
-let b = 4
-
+const a = 5
+const b = 4
 
 console.log("Addition of a & b =", a+b)
 console.log("Substraction of a & b =", a-b)

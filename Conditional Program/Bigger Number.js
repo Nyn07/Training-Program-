@@ -1,18 +1,15 @@
 /* Operators Program*/
 
-let a = prompt ("First Number")
-let b = prompt ("Second Number")
-let c = prompt ("Third Number")
+const a = prompt ("First Number")
+const b = prompt ("Second Number")
+const c = prompt ("Third Number")
 
-if 
-	(a>b && a>c) {
-console.log("A is Bigger No. =", a)
-}
+if (a>b && a>c) {
+console.log("A is Biggest No. =", a)}
 
- else if (b>a && b>c) { 
-console.log("B is Bigger No. =",b)
-}
+else if (b>a && b>c) { 
+console.log("B is Biggest No. =",b)}
 
- else {
- 	console.log('C is bigger No.',c);
+else {
+ 	console.log('C is biggest No.',c);
  }
