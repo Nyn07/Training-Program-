@@ -41,6 +41,14 @@ age : 36,
 address : 'Moti Tabela',
 phoneNo : 9752844239, 
 gender : 'female',
-isMarried : false} ]
+isMarried : false}
+{name : 'Abhishek',
+email : 'abhishek@123' ,
+age : 28,
+address : 'Ratlam',
+phoneNo : 8962146566, 
+gender : 'male',
+isMarried : true
+} ]
 let age = employeeDetails.filter((a) => {return a.age<=50})
 console.log (age)
