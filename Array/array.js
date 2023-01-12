@@ -1,6 +1,6 @@
 /* Array program of employee Details*/
 
-let employeeDetails = [ {name : 'Nayan',
+const employeeDetails = [{name : 'Nayan',
 email : 'nayan@123',
 age : 23,
 address : 'Gumasta Nagar',
@@ -48,7 +48,6 @@ age : 28,
 address : 'Ratlam',
 phoneNo : 8962146566, 
 gender : 'male',
-isMarried : true
-} ]
+isMarried : true}]
 let age = employeeDetails.filter((a) => {return a.age<=50})
 console.log (age)
