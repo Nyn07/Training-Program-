@@ -22,4 +22,4 @@ email : 'abhishek@123',
 salary : 8962}]
 function sortEmp() {
 return  emp.sort ((a,b)=> a.salary > b.salary ? 1 : -1)}
-console.log (so())
+console.log (sortEmp())
