@@ -53,7 +53,7 @@ const employeeDetails = [{
   phoneNo: 9752844239,
   gender: 'female',
   isMarried: false
-}
+},
 {
   name: 'Abhishek',
   email: 'abhishek@123',
@@ -63,5 +63,5 @@ const employeeDetails = [{
   gender: 'male',
   isMarried: true
 }]
-let age = employeeDetails.filter((a) => { return a.age <= 50 })
+const age = employeeDetails.filter((a) => a.age <= 50)
 console.log(age)
